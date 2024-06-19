@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # <xbar.title>TrainTrack</xbar.title>
 # <xbar.version>v1.0.0</xbar.version>
