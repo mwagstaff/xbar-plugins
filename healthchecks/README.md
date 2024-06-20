@@ -10,4 +10,4 @@ A plugin for [xbar](https://github.com/matryer/xbar) that shows the status of co
 
 ## Screenshot
 
-![Healthchecks](https://raw.githubusercontent.com/mwagstaff/xbar-plugins/main/train-track/screenshot.png)
+![Healthchecks](https://raw.githubusercontent.com/mwagstaff/xbar-plugins/main/healthchecks/screenshot.png)
