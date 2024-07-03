@@ -10,7 +10,7 @@
 sites=(
     "https://football-scores-api.fly.dev/api/v1/healthcheck"
     "https://train-track-api.fly.dev/healthcheck"
-    "https://waste-collection.fly.dev/healthcheck"
+    "https://waste-collection.fly.dev/api/v1/healthcheck"
 )
 
 
